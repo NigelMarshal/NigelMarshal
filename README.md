@@ -3,9 +3,10 @@
 </h1>
 <h3 align="center">I'm a front-end developer and meat popsicle.</h3>
 
-- 👨‍💻 All of my projects are available at
-[https://nigelmarshal.github.io/](https://nigelmarshal.github.io/) - 📫 How to
-reach me **nigelmarshal@gmail.com** - 📄 Know about my experiences
+- 👨‍💻You can view my projects here:
+[https://nigelmarshal.github.io/](https://nigelmarshal.github.io/) 
+- 📫 Want to get in touch? Email me @: **nigelmarshal@gmail.com** 
+- 📄 Want to know about my achievements and experiences in a formal pdf format? Check out my CV here:
 [https://www.dropbox.com/s/u9dpn79a4pirq43/Nigel%20Marshal%20Resume.pdf?dl=0](https://www.dropbox.com/s/u9dpn79a4pirq43/Nigel%20Marshal%20Resume.pdf?dl=0)
 - ⚡ Fun fact **I can juggle successfully 50% of the time.**
 
