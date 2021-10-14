@@ -5,10 +5,15 @@
 
  👨‍💻You can view my projects here:
 [https://nigelmarshal.github.io/](https://nigelmarshal.github.io/) 
+
  📫 Want to get in touch? Email me @: **nigelmarshal@gmail.com** 
- 📄 Want to know about my achievements and experiences in a formal pdf format? Check out my CV here:
+ 
+ 📄 Want to know about my achievements and experiences in a formal pdf format? 
+ <br />
+ Check out my CV here:
 [https://www.dropbox.com/s/u9dpn79a4pirq43/Nigel%20Marshal%20Resume.pdf?dl=0](https://www.dropbox.com/s/u9dpn79a4pirq43/Nigel%20Marshal%20Resume.pdf?dl=0)
-- ⚡ Fun fact **I can juggle successfully 50% of the time.**
+
+⚡ Fun fact **I can juggle successfully 50% of the time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
