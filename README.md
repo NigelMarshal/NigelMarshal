@@ -83,14 +83,6 @@
     />
   </a>
 
-  <a href="https://emberjs.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ember/ember-original-wordmark.svg"
-      alt="ember"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://git-scm.com/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
