@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there! 👋🏽 My name is Bon—Nigel. Nigel Marshal (Not Bon-Nigel)
+  Hi there! 👋🏽 My name is Bon — Nigel. Nigel Marshal (Not Bon-Nigel)
 </h1>
 <h3 align="center">I'm a front-end developer and meat popsicle.</h3>
 
