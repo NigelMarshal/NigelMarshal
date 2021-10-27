@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">I'm a front-end developer and meat popsicle.</h3>
 
- 👨‍💻You can view my projects here:
+ 👨‍💻You can view my project highlights here:
 [https://nigelmarshal.github.io/](https://nigelmarshal.github.io/) 
 
  📫 Want to get in touch? Email me @: **nigelmarshal@gmail.com** 
