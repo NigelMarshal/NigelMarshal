@@ -6,7 +6,6 @@
  👨‍💻 You can view my project highlights here:
 [https://nigelmarshal.github.io/](https://nigelmarshal.github.io/) 
 
- 📫 Want to get in touch? Email me @: **nigelmarshal@gmail.com** 
  
  📄 Want to know about my achievements and experiences in a formal pdf format? 
  <br />
