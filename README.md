@@ -4,13 +4,13 @@
 <h3 align="center">I'm a front-end developer and meat popsicle.</h3>
 
  👨‍💻 You can view my project highlights here:
-[https://nigelmarshal.github.io/](https://nigelmarshal.github.io/) 
+[nigelmarshal.com](https://nigelmarshal.com) 
 
  
  📄 Want to know about my achievements and experiences in a formal pdf format? 
  <br />
  Check out my CV here:
-[https://www.dropbox.com/s/u9dpn79a4pirq43/Nigel%20Marshal%20Resume.pdf?dl=0](https://www.dropbox.com/s/u9dpn79a4pirq43/Nigel%20Marshal%20Resume.pdf?dl=0)
+[nigelmarshal.com/Resume](https://www.nigelmarshal.com/Nigel-Marshal-Resume.pdf)
 
 ⚡ Fun fact **I can juggle successfully 50% of the time.**
 
