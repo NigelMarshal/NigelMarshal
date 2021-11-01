@@ -1,7 +1,7 @@
 <h1 align="center">
-  Hi there! 👋🏽 My name is Bon — Nigel. Nigel Marshal (Not Bon-Nigel)
+  Hi there! 👋🏽 My name is <a href="https://media.giphy.com/media/nu4DN4nKos3m0/giphy.gif">Bon<a/> — Nigel. Nigel Marshal (Not Bon-Nigel)
 </h1>
-<h3 align="center">I'm a front-end developer and meat popsicle.</h3>
+<h3 align="center">I'm a front-end developer and <a href="https://media.giphy.com/media/iC3flcWuI3xkY/giphy.gif">meat popsicle.</a></h3>
 
  👨‍💻 You can view my project highlights here:
 [nigelmarshal.com](https://nigelmarshal.com) 
