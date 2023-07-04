@@ -31,6 +31,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
+  <a href="[https://angular.io](https://rxjs.dev/)" target="_blank" rel="noreferrer"> <img src="https://github.com/NigelMarshal/NigelMarshal/assets/11574237/622d0cd3-993e-40df-b107-022c6fe8b03f" alt="rxjs" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
