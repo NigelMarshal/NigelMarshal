@@ -6,12 +6,6 @@
  👨‍💻 You can view my project highlights here:
 [nigelmarshal.com](https://nigelmarshal.com) 
 
- 
- 📄 Want to know about my achievements and experiences in a formal pdf format? 
- <br />
- Check out my CV here:
-[nigelmarshal.com/Resume](https://www.nigelmarshal.com/Nigel-Marshal-Resume.pdf)
-
 ⚡ Fun fact **I can juggle successfully 50% of the time.**
 
 <h3 align="left">Connect with me:</h3>
