@@ -1,19 +1,19 @@
-<h2 align="center">
+<h1 align="center">
   Hey there! 👋🏽   
 </h2>
 
-<h1 align="center">
+<h2 align="center">
  I'm Nigel Marshal, a <code>front-end developer</code>
 
   with a passion for crafting delightful user experiences.
 </h1>
 
 
-👨‍💻 Feel free to explore my projects at [nigelmarshal.com](https://www.nigelmarshal.com).
+👨‍💻 Feel free to explore my projects at [nigelmarshal.com](https://www.nigelmarshal.com)
 
 ⚡ Fun fact: I'm quite the juggler — successfully 50% of the time!
 
-<h1>Here are some of the things I've worked with over the years</h2>
+<h1>Here is a glimpse of some of the things I've worked with over the years</h2>
 
 <h3>Analytics</h3>
 
@@ -110,7 +110,7 @@
 <p align="left">
   <a
     href="https://www.linkedin.com/in/nigelmarshal/"
-    target="blank"
+    target="_blank" rel="noopener noreferrer"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
