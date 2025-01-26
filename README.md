@@ -9,7 +9,7 @@
 </h1>
 
 
-👨‍💻 Feel free to explore my projects at [nigelmarshal.com](https://www.nigelmarshal.com)
+👨‍💻 Feel free to explore my projects at [nigelmarshal.cv](https://nigelmarshal.cv)
 
 ⚡ Fun fact: I'm quite the juggler — successfully 50% of the time!
 
